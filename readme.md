@@ -1,4 +1,4 @@
-# Projeto de Segurança da Informação
+# Projeto Algoritimo RSA e DH (Diffie–Hellman) - Segurança da Informação
 
 Este projeto foi desenvolvido para a matéria de Segurança da Informação do Professor Ronaldo Toshiaki Oikawa. O projeto inclui a implementação de um servidor e um cliente que utilizam criptografia RSA e Diffie-Hellman para comunicação segura.
 
